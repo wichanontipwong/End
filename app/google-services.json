@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888604990319",
+    "project_id": "wichanon-e1525",
+    "storage_bucket": "wichanon-e1525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888604990319:android:d27b5fbccbc2892f83a69a",
+        "android_client_info": {
+          "package_name": "com.example.end"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888604990319-usl7ficorphp7r7qiokee6upq1m59vnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7mZCoBZB0Tvri_Gw9Dhoznjw5ZRDVN7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888604990319-usl7ficorphp7r7qiokee6upq1m59vnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
